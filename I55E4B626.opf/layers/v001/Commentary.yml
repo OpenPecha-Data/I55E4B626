@@ -1,8 +1,8 @@
-id: a7d1df9d5c174fd88200f1970907c7be
+id: 9808390dd57848819efe7e424d07dd9f
 annotation_type: Commentary
 revision: '00001'
 annotations:
-  23c92efe0ce24e4ca830aed690cd0708:
+  a70b59f98de2463c87eed33a42e046a7:
     span:
       start: 153
       end: 11439
@@ -10,4 +10,4 @@ annotations:
     metadata:
       css_class_name: tibetan-commentary-non-indent
 local_ids:
-  23c92efe0ce24e4ca830aed690cd0708: 200000
+  a70b59f98de2463c87eed33a42e046a7: 200000
